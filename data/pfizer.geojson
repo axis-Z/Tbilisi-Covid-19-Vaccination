@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "pfizer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "vaccine": "ფაიზერი", "hospital": "კონსილიუმ მედულა", "address": "ა.  პოლიტკოვსკაიას 6" }, "geometry": { "type": "Point", "coordinates": [ 44.714398248887768, 41.719156459073652 ] } },
+{ "type": "Feature", "properties": { "id": 2, "vaccine": "ფაიზერი", "hospital": "ნიუ ვიჟენ", "address": "ლუბლიანას ქ. 13 / ჭიაურელის ქ. 6" }, "geometry": { "type": "Point", "coordinates": [ 44.776915144633712, 41.773159158245726 ] } },
+{ "type": "Feature", "properties": { "id": 3, "vaccine": "ფაიზერი", "hospital": "გაგუას კლინიკა", "address": "ლუბლიანას ქ. 13 / ჭიაურელის ქ. 6" }, "geometry": { "type": "Point", "coordinates": [ 44.776008733205202, 41.773657699607064 ] } },
+{ "type": "Feature", "properties": { "id": 4, "vaccine": "ფაიზერი", "hospital": "ჩაფიძის კლინიკა", "address": "ნ.  ჯავახიშვილის ქ.  1" }, "geometry": { "type": "Point", "coordinates": [ 44.778025498633632, 41.774449865409977 ] } },
+{ "type": "Feature", "properties": { "id": 5, "vaccine": "ფაიზერი", "hospital": "ქირურგიის ეროვნული ცენტრი", "address": "ლუბლიანას ქ.  29" }, "geometry": { "type": "Point", "coordinates": [ 44.779455929169224, 41.774513238251551 ] } },
+{ "type": "Feature", "properties": { "id": 6, "vaccine": "ფაიზერი", "hospital": "მედკაპიტალი", "address": "ა.  წერეთლის გამზ.  138" }, "geometry": { "type": "Point", "coordinates": [ 44.777322321642565, 41.747456321756701 ] } },
+{ "type": "Feature", "properties": { "id": 7, "vaccine": "ფაიზერი", "hospital": "იაშვილის ბავშვთა ცენტრალური", "address": "ლუბლიანას ქ. 13 / ჭიაურელის ქ. 6" }, "geometry": { "type": "Point", "coordinates": [ 44.776002359999794, 41.771830927972097 ] } },
+{ "type": "Feature", "properties": { "id": 8, "vaccine": "ფაიზერი", "hospital": "ამტელ ჰოსპიტალი", "address": "წინანდლის ქ.  9" }, "geometry": { "type": "Point", "coordinates": [ 44.829562777817742, 41.688941495637067 ] } },
+{ "type": "Feature", "properties": { "id": 9, "vaccine": "ფაიზერი", "hospital": "ინგოროყვას კლინიკა", "address": "წინანდლის ქ.  9" }, "geometry": { "type": "Point", "coordinates": [ 44.827131045907237, 41.691265048064786 ] } },
+{ "type": "Feature", "properties": { "id": 10, "vaccine": "ფაიზერი", "hospital": "Express Medical Service", "address": "ჰუალინგის სავაჭრო ცენტრი" }, "geometry": { "type": "Point", "coordinates": [ 44.860209397975495, 41.707477871228825 ] } },
+{ "type": "Feature", "properties": { "id": 11, "vaccine": "ფაიზერი", "hospital": "ნიუ ჰოსპიტალსი", "address": "კრწანისის ქ.  12" }, "geometry": { "type": "Point", "coordinates": [ 44.824351620237834, 41.67498149306148 ] } },
+{ "type": "Feature", "properties": { "id": 12, "vaccine": "ფაიზერი", "hospital": "კლინიკა ნიუმედი", "address": "მარიჯანის ქ.  4" }, "geometry": { "type": "Point", "coordinates": [ 44.729985692925453, 41.723096770211065 ] } },
+{ "type": "Feature", "properties": { "id": 13, "vaccine": "ფაიზერი", "hospital": "ვივამედი", "address": "დ.  აღმაშენებლის ხეივანი მე-12 კმ" }, "geometry": { "type": "Point", "coordinates": [ 44.769598704885929, 41.801113210038103 ] } },
+{ "type": "Feature", "properties": { "id": 14, "vaccine": "ფაიზერი", "hospital": "ინფექციური პათოლოგიის ცენტრი", "address": "ა.  ყაზბეგის გამზ.  16" }, "geometry": { "type": "Point", "coordinates": [ 44.757008083637096, 41.724883176406337 ] } },
+{ "type": "Feature", "properties": { "id": 15, "vaccine": "ფაიზერი", "hospital": "ბოჭორიშვილის კლინიკა", "address": "ალ.  ყაზბეგის გამზ.  16" }, "geometry": { "type": "Point", "coordinates": [ 44.757263011851357, 41.723475196498036 ] } },
+{ "type": "Feature", "properties": { "id": 16, "vaccine": "ფაიზერი", "hospital": "სამედიცინო უნივერსიტეტი", "address": "ვაჟა-ფშაველას გამზ.  33" }, "geometry": { "type": "Point", "coordinates": [ 44.754198208208805, 41.727320642253055 ] } },
+{ "type": "Feature", "properties": { "id": 17, "vaccine": "ფაიზერი", "hospital": "ევექსის ვაქცინაციის ცენტრი", "address": "დ.  თავხელიძის ქ.  1" }, "geometry": { "type": "Point", "coordinates": [ 44.732678018121582, 41.722958295230654 ] } },
+{ "type": "Feature", "properties": { "id": 18, "vaccine": "ფაიზერი", "hospital": "კავკასიის მედიცინის ცენტრი", "address": "პ.  ქავთარაძის ქ.  23" }, "geometry": { "type": "Point", "coordinates": [ 44.730658420157518, 41.720672886419031 ] } },
+{ "type": "Feature", "properties": { "id": 19, "vaccine": "ფაიზერი", "hospital": "ტექნიკური უნივერსიტეტის მე-6 კორპ.", "address": "სააკაძის მოედანი / მ.  კოსტავას ქ.  77" }, "geometry": { "type": "Point", "coordinates": [ 44.777607922887903, 41.724565092790002 ] } }
+]
+}
